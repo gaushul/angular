@@ -1,6 +1,68 @@
 {
-"user":[
-{name:'gaushul'},
-{name:'vajid'}
-]
+  "user": [
+    {
+      "name": "gaushul",
+      "email": "user@gmail.com",
+      "mobile": "5555555555",
+      "location": "kalyan",
+      "isAuthorized": true,
+      "id": 6
+    },
+    {
+      "name": "Rameez",
+      "email": "az@gmail.com",
+      "mobile": "8956669666",
+      "location": "Kurla",
+      "isAuthorized": true,
+      "id": 8
+    },
+    {
+      "name": "Gaushul Azam",
+      "email": "gz@gmail.com",
+      "mobile": "8985666666",
+      "location": "kalyan",
+      "isAuthorized": false,
+      "id": 9
+    },
+    {
+      "name": "Vajidullah",
+      "email": "vz@gmail.com",
+      "mobile": "8956688555",
+      "location": "kalyan",
+      "isAuthorized": false,
+      "id": 10
+    },
+    {
+      "name": "Dipti",
+      "email": "dip@gmail.com",
+      "mobile": "9553263635",
+      "location": "Bhandup",
+      "isAuthorized": true,
+      "id": 11
+    },
+    {
+      "name": "Surbhi",
+      "email": "surbhi@gmail.com",
+      "mobile": "9855555555",
+      "location": "Andheri",
+      "isAuthorized": true,
+      "id": 12
+    },
+    {
+      "name": "Ninad",
+      "email": "ninad@gmail.com",
+      "mobile": "9888888888",
+      "location": "Thane",
+      "isAuthorized": true,
+      "id": 13
+    },
+    {
+      "name": "hello",
+      "email": "user@gmail.com",
+      "mobile": "8989888888",
+      "location": "kalyan",
+      "isAuthorized": true,
+      "id": 14
+    }
+  ]
 }
